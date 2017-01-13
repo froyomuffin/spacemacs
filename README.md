@@ -1,2 +1,0 @@
-# spacemacs
-Spacemacs dot files
